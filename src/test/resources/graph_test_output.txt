@@ -1,0 +1,11 @@
+<-------------------------Writing graph output to output.txt file---------------------------->
+Total nodes 2
+Url  ------> http://google.com/help
+Number of Linked Urls found -----> 1
+ Linked Url  ---------> http://google.com/contact
+Url  ------> http://google.com
+Number of Linked Urls found -----> 3
+ Linked Url  ---------> http://google.com/support
+ Linked Url  ---------> http://google.com/community
+ Linked Url  ---------> http://google.com/help
+<-------------------------Printing Complete---------------------------->
